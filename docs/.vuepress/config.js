@@ -1,12 +1,13 @@
 module.exports = {
-    base: '/snail-climb/',
+    // base: '/snail-climb/',
+    base: '/',
     title: 'Snail-Climb',
     description: '个人博客：我要一步一步往上爬，在最高点乘着叶片往前飞',
     head: [
         ['link', {rel: 'icon', href: '/icon.svg'}]
     ],
     host: '0.0.0.0',
-    port: 8080,
+    port: 80,
     dest: 'dist',
     themeConfig: {
         logo: '/icon.svg',
