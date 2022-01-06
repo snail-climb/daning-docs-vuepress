@@ -67,4 +67,5 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    plugins: ['@vuepress/back-to-top'],
 }
