@@ -10,7 +10,7 @@ module.exports = {
     dest: 'dist',
     themeConfig: {
         logo: '/icon.svg',
-        repo: 'vuejs/vuepress',
+        // repo: 'https://gitee.com/snail-climb/daning-docs-vuepress.git',
         nav: [
             {text: 'Home', link: '/'},
             {
